@@ -1,0 +1,42 @@
+* {font-family: 'Poppins', sans-serif;}
+
+.dataTables_filter {
+  display: none;
+}
+
+.dataTables_length {
+  font-size : 0px;
+}
+.dataTables_length select {
+  width : 100%;
+  float : left;
+}
+#tabel_ibd_paginate {
+  margin-top : 15px;
+  float : left;
+  display: block;
+  height : 10px;
+  display: inline-block;
+}
+.ex {
+  font-style: italic;
+  color : red;
+}
+
+#intro {margin-top: 58px;}
+
+@media (max-width: 992px) {
+  #intro {margin-top: 45px;}
+
+  p, .nav-item {font-size: 13px;}
+  
+  .logo {font-size: 15px}
+
+  #tabel_ibd tr {font-size : 13px;}
+
+  .ex {
+    font-style: italic;
+    color : red;
+    font-size : 10px;
+  }
+}
