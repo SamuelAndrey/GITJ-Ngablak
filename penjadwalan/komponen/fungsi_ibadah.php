@@ -18,19 +18,19 @@ function tanggal($tanggal) {
             $bulan = 'Feb';
             break;
         case '03':
-            $bulan = 'Maret';
+            $bulan = 'Mar';
             break;
         case '04':
-            $bulan = 'April';
+            $bulan = 'Apr';
             break;
         case '05':
             $bulan = 'Mei';
             break;
         case '06':
-            $bulan = 'Juni';
+            $bulan = 'Jun';
             break;
         case '07':
-            $bulan = 'Juli';
+            $bulan = 'Jul';
             break;
         case '08':
             $bulan = 'Agu';
