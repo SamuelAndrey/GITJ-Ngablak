@@ -1,5 +1,4 @@
-# GITJ-Ngablak
-Website informasi &amp; penjadwalan ibadah untuk GITJ Ngablak &amp; Pepanthan
+# Church Scheduling Website
 
 ## Screenshot
 ![gitj](https://user-images.githubusercontent.com/96031557/227987330-f9b6c26c-91ee-44e0-b778-f9b5ce013511.png)
